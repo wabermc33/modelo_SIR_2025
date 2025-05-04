@@ -15,4 +15,7 @@ Para ejecutar cualquiera de los tres debéis instalar los paquetes de python:
 
 IMPORTANTE: los gráficos se guardan en formato .png dentro de la propia
 carpeta en la que haya guardado los archivos.
+IMPORTANTE: el código de las gráficas que aparecen en el artículo estan
+en la carpeta /GraficosArticulo
+
 
