@@ -1,4 +1,4 @@
-Los archivos .py deben estar en la misma carpeta para poder ejecutar una de las tres simulaciones:
+Los archivos .py (carpeta SIRVM_DHC_EJC_JGH) deben estar en la misma carpeta para poder ejecutar una de las tres simulaciones:
 main.py, main_custom.py o personalized.py
 
 La simulación del artículo "Análisis sobre la dinámica epidemiológica y 
